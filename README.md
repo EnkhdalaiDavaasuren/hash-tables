@@ -27,3 +27,11 @@ Here is a bullet list:
 
 The way to create a Dart project is to
 write `dart create .`
+
+Next copy and paste follow code:
+
+```
+void main() {
+
+}
+
