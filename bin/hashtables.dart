@@ -30,8 +30,8 @@ void main() {
     Student(2023002, 'NM'),
     Student(2022081, 'TG'),
     Student(2024085, 'TK'),
-    Student(2024007, 'TA'),
-    Student(2024007, 'UM'),
-    Student(2022002, 'VG'),
+    Student(2023007, 'TA'),
+    Student(2022007, 'UM'),
+    Student(2024007, 'VG'),
   ];
 }
