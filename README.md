@@ -20,3 +20,10 @@ Here is an ordered list:
 2. two
 3. three
 
+Here is a bullet list:
+- one
+- two
+- three
+
+The way to create a Dart project is to
+write `dart create .`
